@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[velclub]]></data>
+
+
+
+  <data name="ru_pano10_title"><![CDATA[ГОСТИНАЯ]]></data>
+  <data name="ru_spotpoint36_tooltip"><![CDATA[Мягкая зона]]></data>
+  <data name="ru_spotpoint42_tooltip"><![CDATA[Столовая вход]]></data>
+  <data name="ru_spotpoint43_tooltip"><![CDATA[Столовая]]></data>
+  <data name="ru_spotpoint95_tooltip"><![CDATA[Коридор]]></data>
+  <data name="ru_spotpoint103_tooltip"><![CDATA[2 этаж]]></data>
+
+
+  <data name="ru_pano11_title"><![CDATA[МЯГКАЯ ЗОНА]]></data>
+  <data name="ru_spotpoint37_tooltip"><![CDATA[Холл гостиной]]></data>
+  <data name="ru_spotpoint38_tooltip"><![CDATA[Столовая вход]]></data>
+  <data name="ru_spotpoint39_tooltip"><![CDATA[Коридор]]></data>
+  <data name="ru_spotpoint40_tooltip"><![CDATA[Холл 2 этажа]]></data>
+  <data name="ru_spotpoint93_tooltip"><![CDATA[Кухня]]></data>
+
+
+  <data name="ru_pano12_title"><![CDATA[СТОЛОВАЯ ВХОД]]></data>
+  <data name="ru_spotpoint44_tooltip"><![CDATA[Мягкая зона]]></data>
+  <data name="ru_spotpoint45_tooltip"><![CDATA[Столовая]]></data>
+  <data name="ru_spotpoint46_tooltip"><![CDATA[Кухня]]></data>
+  <data name="ru_spotpoint47_tooltip"><![CDATA[Холл гостиной]]></data>
+  <data name="ru_spotpoint48_tooltip"><![CDATA[Коридор]]></data>
+  <data name="ru_spotpoint289_tooltip"><![CDATA[2 Этаж]]></data>
+
+
+  <data name="ru_pano13_title"><![CDATA[СТОЛОВАЯ]]></data>
+  <data name="ru_spotpoint96_tooltip"><![CDATA[Кухня]]></data>
+  <data name="ru_spotpoint97_tooltip"><![CDATA[Столовая вход]]></data>
+  <data name="ru_spotpoint98_tooltip"><![CDATA[Гостиная]]></data>
+
+
+  <data name="ru_pano14_title"><![CDATA[КУХНЯ]]></data>
+  <data name="ru_spotpoint99_tooltip"><![CDATA[Столовая]]></data>
+  <data name="ru_spotpoint100_tooltip"><![CDATA[Коридор]]></data>
+
+
+  <data name="ru_pano16_title"><![CDATA[ПРИХОЖАЯ]]></data>
+  <data name="ru_spotpoint101_tooltip"><![CDATA[Гостиная]]></data>
+  <data name="ru_spotpoint102_tooltip"><![CDATA[2 этаж]]></data>
+
+
+  <data name="ru_pano15_title"><![CDATA[2 ЭТАЖ]]></data>
+  <data name="ru_spotpoint41_tooltip"><![CDATA[Мягкая зона]]></data>
+
+
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_controlBar_classiczoomInTip"><![CDATA[Увеличить]]></data>
+  <data name="ru_controlBar_classiczoomOutTip"><![CDATA[Уменьшить]]></data>
+  <data name="ru_controlBar_classicmoveLeftTip"><![CDATA[Движение Влево]]></data>
+  <data name="ru_controlBar_classicmoveRightTip"><![CDATA[Движение Вправо]]></data>
+  <data name="ru_controlBar_classicmoveUpTip"><![CDATA[Движение Вверх]]></data>
+  <data name="ru_controlBar_classicmoveDownTip"><![CDATA[Движение Вниз]]></data>
+  <data name="ru_controlBar_classicopenFsTip"><![CDATA[Развернуть во весь Экран]]></data>
+  <data name="ru_controlBar_classiccloseFsTip"><![CDATA[Свернуть в окно]]></data>
+  <data name="ru_controlBar_classicautorotateOnTip"><![CDATA[Запустить Вращение]]></data>
+  <data name="ru_controlBar_classicautorotateOffTip"><![CDATA[Остановить Вращение]]></data>
+  <data name="ru_controlBar_classicsoundsOnTip"><![CDATA[Включить Звук]]></data>
+  <data name="ru_controlBar_classicsoundsOffTip"><![CDATA[Отключить Звук]]></data>
+  <data name="ru_controlBar_classicshowThumbnailsTip"><![CDATA[Показать Панорамы]]></data>
+  <data name="ru_controlBar_classichideThumbnailsTip"><![CDATA[Скрыть Панорамы]]></data>
+  <data name="ru_controlBar_classicdisplayHelpTip"><![CDATA[Показать Подсказки]]></data>
+  <data name="ru_controlBar_classichideHelpTip"><![CDATA[Скрыть Подсказки]]></data>
+  <data name="ru_controlBar_classicdisplayInfoTip"><![CDATA[Показать Описание]]></data>
+  <data name="ru_controlBar_classichideInfoTip"><![CDATA[Скрыть Описание]]></data>
+  <data name="ru_controlBar_classicdisplayControlsTip"><![CDATA[Показать панель Управления]]></data>
+  <data name="ru_controlBar_classichideControlsTip"><![CDATA[Скрыть панель Управления]]></data>
+  <data name="ru_controlBar_classicctrlmodeDragTip"><![CDATA[Ручное Управление]]></data>
+  <data name="ru_controlBar_classicctrlmodeMoveTip"><![CDATA[Автоматическое управление]]></data>
+  <data name="ru_prevnexttheme2prevSceneTip"><![CDATA[Предыдущая Сцена]]></data>
+  <data name="ru_prevnexttheme2nextSceneTip"><![CDATA[Следующая Сцена]]></data>
+  <data name="ru_logowebsiteurl"><![CDATA[]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="ru_pano10_description"><![CDATA[<font face="trebuchet ms, sans-serif"><b><font size="4">Гостиная</font></b><br>Дизайн выполнили с характером уютной атмосферы и соединили в нем простоту и элегантность. Строгость геометрических линий и мягких оттенков создали изящный образ. Добавили отличительные особенности в виде геометрии по стенам. Этим приемом нам дополнительно удалось задекорировать большие поверхности, которые бы просто смотрелись пустыми. В гостинной разместили немецкий камин с топкой BRUNNER и облицованный керамикой SUMMERHUBER. Его лаконичный образ прекрасно сыграл с нашим оформлением. На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc. Лестницу сделали легкой оформив каленным стеклом и деревом в оттенок массивной доске на полу.  В гостинной диван Poliform Tribeca и кофейный столик Poliform Tribeca создали образ гармоничного уюта и придали особый шарм гостинной. </font>]]></data>
+
+
+
+  <data name="ru_pano11_description"><![CDATA[<b style="font-family: 'trebuchet ms', sans-serif;"><font size="4">Гостиная</font></b><br style="font-family: 'trebuchet ms', sans-serif;"><span style="font-family: 'trebuchet ms', sans-serif;">Дизайн выполнили с характером уютной атмосферы и соединили в нем простоту и элегантность. Строгость геометрических линий и мягких оттенков создали изящный образ. Добавили отличительные особенности в виде геометрии по стенам. Этим приемом нам дополнительно удалось задекорировать большие поверхности, которые бы просто смотрелись пустыми. В гостинной разместили немецкий камин с топкой BRUNNER и облицованный керамикой SUMMERHUBER. Его лаконичный образ прекрасно сыграл с нашим оформлением. На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc. Лестницу сделали легкой оформив каленным стеклом и деревом в оттенок массивной доске на полу. В гостинной диван Poliform Tribeca и кофейный столик Poliform Tribeca создали образ гармоничного уюта и придали особый шарм гостинной.</span>]]></data>
+
+
+
+  <data name="ru_pano12_description"><![CDATA[<font face="trebuchet ms, sans-serif"><b><font size="4">Обеденная зона</font></b><br>При проектировании мы визуально создали просматриваемые зоны. Зона гостинной перетекает в зону прихожей и зону столовой с кухней. В каждой зоне использовали прямоугольные порталы задекорированные гипсовыми панелями, которые покрасили в основной цвет стен. Из прихожей в столовую мы сделали в качестве перегородки просматриваемые ниши с подсветкой, где разместили элементы декора одного цветового оттенка. Проход из столовой в кухню оставили без дверей, оформив портал также, как при других переходах. Этим приемом мы повторили общее оформление и продолжили дизайн интерьера в единую стилистическую линию. Мы сделали интерьер простым, логичным и понятным. На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc.  В столовой акцентом стал обеденный стол REFLEX, который добавил свою ноту изысканности.</font><div></div>]]></data>
+
+
+
+  <data name="ru_pano13_description"><![CDATA[<b style="font-family: 'trebuchet ms', sans-serif;"><font size="4">Обеденная зона</font></b><br style="font-family: 'trebuchet ms', sans-serif;"><span style="font-family: 'trebuchet ms', sans-serif;">При проектировании мы визуально создали просматриваемые зоны. Зона гостинной перетекает в зону прихожей и зону столовой с кухней. В каждой зоне использовали прямоугольные порталы задекорированные гипсовыми панелями, которые покрасили в основной цвет стен. Из прихожей в столовую мы сделали в качестве перегородки просматриваемые ниши с подсветкой, где разместили элементы декора одного цветового оттенка. Проход из столовой в кухню оставили без дверей, оформив портал также, как при других переходах. Этим приемом мы повторили общее оформление и продолжили дизайн интерьера в единую стилистическую линию. Мы сделали интерьер простым, логичным и понятным.&nbsp;</span><span style="font-family: 'trebuchet ms', sans-serif;">На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc. В столовой акцентом стал обеденный стол REFLEX, который добавил свою ноту изысканности.</span>]]></data>
+
+
+
+  <data name="ru_pano14_description"><![CDATA[<font face="trebuchet ms, sans-serif"><b><font size="4">Кухня</font></b><br>Проход из столовой в кухню оставили без дверей, оформив портал также, как при других переходах. Этим приемом мы повторили общее оформление и продолжили дизайн интерьера в единую стилистическую линию. Мы сделали интерьер простым, логичным и понятным. На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc.  Для кухни мы использовали «леденящий холод» авторской мебели, создавая образ современного комфорта и лаконичности. Сыграли с теплым оформлением пространства, которое добавило эстетичного шарма, образуя оазис функционального уюта. И весь этот современный танец подчеркнули используемой техникой Miele CS: варочная индукционная панель, тепан яки, модульная индукционная панель Wok, духовой шкаф и встроенная посудомоечная машина.</font>]]></data>
+
+
+
+  <data name="ru_pano16_description"><![CDATA[<font face="trebuchet ms, sans-serif"><b><font size="4">Прихожая - Коридор</font></b><br>При проектировании мы визуально создали просматриваемые зоны. Зона гостинной перетекает в зону прихожей и зону столовой с кухней. В каждой зоне использовали прямоугольные порталы задекорированные гипсовыми панелями, которые покрасили в основной цвет стен. Из прихожей в столовую мы сделали в качестве перегородки просматриваемые ниши с подсветкой, где разместили элементы декора одного цветового оттенка. Мы сделали интерьер простым, логичным и понятным. На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc.  В прихожей гардероб Poliform wardrobes MADISON добавил ноту современных линий и подчеркнул образ функциональности в маленьком пространстве. </font>]]></data>
+
+
+
+  <data name="ru_pano15_description"><![CDATA[<b style="font-family: 'trebuchet ms', sans-serif;"><font size="4">2 Этаж</font></b><br style="font-family: 'trebuchet ms', sans-serif;"><span style="font-family: 'trebuchet ms', sans-serif;">Дизайн выполнили с характером уютной атмосферы и соединили в нем простоту и элегантность. Строгость геометрических линий и мягких оттенков создали изящный образ. Добавили отличительные особенности в виде геометрии по стенам. Этим приемом нам дополнительно удалось задекорировать большие поверхности, которые бы просто смотрелись пустыми. В гостинной разместили немецкий камин с топкой BRUNNER и облицованный керамикой SUMMERHUBER. Его лаконичный образ прекрасно сыграл с нашим оформлением. На пол положили массивную доску MERCIER, канадской компании Les Planchers Mercier inc. Лестницу сделали легкой оформив каленным стеклом и деревом в оттенок массивной доске на полу. В гостинной диван Poliform Tribeca и кофейный столик Poliform Tribeca создали образ гармоничного уюта и придали особый шарм гостинной.</span>]]></data>
+
+
+</krpano>
